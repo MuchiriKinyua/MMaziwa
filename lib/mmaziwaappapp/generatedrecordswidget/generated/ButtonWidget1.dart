@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedrecordswidget/generated/GeneratedRectangle25Widget.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedrecordswidget/generated/GeneratedSaveupdateWidget.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedrecordswidget/generated/Rectangle25Widget.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedrecordswidget/generated/SaveupdateWidget.dart';
 import 'package:flutterapp/helpers/transform/transform.dart';
 
 /* Component Button

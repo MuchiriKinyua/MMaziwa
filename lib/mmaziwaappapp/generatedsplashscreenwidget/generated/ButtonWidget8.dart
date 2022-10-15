@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedsplashscreenwidget/generated/GeneratedGetstartedWidget1.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedsplashscreenwidget/generated/GeneratedRectangle2Widget1.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedsplashscreenwidget/generated/GetstartedWidget1.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedsplashscreenwidget/generated/Rectangle2Widget1.dart';
 import 'package:flutterapp/helpers/transform/transform.dart';
 
 /* Component Button

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedmpesawidget/GeneratedMpesaWidget.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedrecordswidget/GeneratedRecordsWidget.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedhomepagewidget/GeneratedHomepageWidget.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedmpesawidget/MpesaWidget.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedrecordswidget/RecordsWidget.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedhomepagewidget/HomepageWidget.dart';
 import 'package:flutterapp/mmaziwaappapp/generatedloginwidget/GeneratedLoginWidget.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedregistrationwidget/GeneratedRegistrationWidget.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedsplashscreenwidget/GeneratedSplashscreenWidget.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedregistrationwidget/RegistrationWidget.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedsplashscreenwidget/SplashscreenWidget.dart';
 
 void main() {
   runApp(MMaziwaAPPApp());

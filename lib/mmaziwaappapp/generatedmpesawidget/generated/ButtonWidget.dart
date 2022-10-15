@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedmpesawidget/generated/GeneratedRectangle26Widget.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedmpesawidget/generated/GeneratedBacktohomepageWidget.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedmpesawidget/generated/Rectangle26Widget.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedmpesawidget/generated/BacktohomepageWidget.dart';
 import 'package:flutterapp/helpers/transform/transform.dart';
 
 /* Component Button

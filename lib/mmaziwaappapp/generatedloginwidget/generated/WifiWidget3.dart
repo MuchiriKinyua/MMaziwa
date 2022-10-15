@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedloginwidget/generated/GeneratedVectorWidget11.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedloginwidget/generated/VectorWidget11.dart';
 import 'package:flutterapp/helpers/transform/transform.dart';
 
 /* Frame wifi

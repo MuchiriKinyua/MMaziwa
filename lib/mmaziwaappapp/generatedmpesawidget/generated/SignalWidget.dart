@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedmpesawidget/generated/GeneratedVectorWidget.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedmpesawidget/generated/VectorWidget.dart';
 import 'package:flutterapp/helpers/transform/transform.dart';
 
 /* Frame signal

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/mmaziwaappapp/generatedloginwidget/generated/GeneratedVectorWidget10.dart';
+import 'package:flutterapp/mmaziwaappapp/generatedloginwidget/generated/VectorWidget10.dart';
 import 'package:flutterapp/helpers/transform/transform.dart';
 
 /* Frame battery-three-quarters
